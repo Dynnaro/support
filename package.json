@@ -1,0 +1,24 @@
+{
+  "name": "freeiam-support",
+  "version": "1.0.0",
+  "description": "The documents you find inside our Intra are all alive ❤️ - the may be updated on a daily or weekly basis.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeiamHQ/freeiam-intra.git"
+  },
+  "author": "Micha Vie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreeiamHQ/freeiam-intra/issues"
+  },
+  "homepage": "https://github.com/FreeiamHQ/freeiam-intra#readme"
+}
