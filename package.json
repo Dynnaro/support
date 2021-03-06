@@ -1,7 +1,7 @@
 {
   "name": "freeiam-support",
   "version": "1.0.0",
-  "description": "The documents you find inside our Intra are all alive ❤️ - the may be updated on a daily or weekly basis.",
+  "description": "",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
