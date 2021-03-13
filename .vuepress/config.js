@@ -12,7 +12,7 @@ module.exports = {
       {
         title: "Discord",
         collapsable: false,
-        children: prefix("discord", ["sync-rank"]),
+        children: prefix("discord", ["sync-account"]),
       },
     ],
     smoothScroll: true,
