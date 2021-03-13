@@ -10,6 +10,11 @@ module.exports = {
         children: prefix("general", ["contact"]),
       },
       {
+        title: "How to",
+        collapsable: false,
+        children: prefix("how-tos", ["rise-ranks"]),
+      },
+      {
         title: "Discord",
         collapsable: false,
         children: prefix("discord", ["sync-account"]),
